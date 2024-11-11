@@ -1,4 +1,4 @@
-# Project developed by stydent Anhelina Malynovska for subject "Software development" checked by S. Boltach
+# Project developed by student Anhelina Malynovska for subject "Software development" checked by S. Boltach
 # ONTU Admission Telegram Bot
 
 Welcome to the **ONTU Admission Bot**, a helpful tool for prospective students interested in enrolling in the Odessa National Technical University (ONTU). This bot provides essential information for applicants to undergraduate and graduate programs, as well as transfer students applying for the 2nd or 3rd year.
