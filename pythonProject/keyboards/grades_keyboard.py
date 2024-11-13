@@ -76,4 +76,3 @@ def get_on_grades_kb() -> ReplyKeyboardMarkup:
     )
     return keyboard
 
-
